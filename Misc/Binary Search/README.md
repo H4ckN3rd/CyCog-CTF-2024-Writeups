@@ -5,6 +5,9 @@ Binary Search...Naam toh suna hee hoga...
 ## Solution
 
 Again after downloading we used ``file`` command and came to know that file is executable.
+Now we simply change permssions and run the program and some output is displayed.
+
+![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/assets/126105931/2601bbd2-2319-4f72-b4b3-412bb59f96bc)
 
 Now binary search means there are two values one is known is high and another is known as low and it’s mid value is (high+low)/2   and basically we have to guess right mid value.
 Now let’s say start guessing...
