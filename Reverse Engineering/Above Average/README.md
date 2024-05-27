@@ -4,7 +4,7 @@ Donwload the given attachment.
 
 ## Solution
 
-First i ran the code which is like the most obvious thing a person do.
+First run the code which is like the most obvious thing a person do.
 
 ![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/blob/0d67dd61d7de831cc336e8d1581061fde05ba375/Reverse%20Engineering/Above%20Average/Images/Picture1.png)
 
