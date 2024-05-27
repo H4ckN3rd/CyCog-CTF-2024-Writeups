@@ -16,5 +16,8 @@ chmod +x run_me
 ./run_me
 ```
 
+![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/assets/126105931/757b2b25-531a-453e-9a23-7a390a9793da)
+
+
 ## Flag
 CCTF{you_just_ran_me}
