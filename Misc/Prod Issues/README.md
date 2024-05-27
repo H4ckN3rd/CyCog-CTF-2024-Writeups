@@ -13,6 +13,9 @@ Now we notice a .git folder which means it is a git repository so now we will us
 
 ``git log`` command shows the logs of changes and version in which they were done.
 
+![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/assets/126105931/a6d14f87-576f-44b9-9fb0-90ffc735e003)
+
+
 Now there are three different versions. 
 We can shift version using ``git checkout`` command.
 
