@@ -1,6 +1,8 @@
 # Inception
 
 First Download all the attachments. For this challenge we will be using john.
+
+## Solution
 First we will use ``“zip2john”`` command to create a hash for the zip file.
 
 ![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/blob/d1a5a2bc3788795cbdcf54e753a25202ae3591f0/Misc/Inception/Images/Picture1.png)
@@ -34,5 +36,5 @@ After extracting “zippsy_extract_5.zip”we got a text file by the name “fla
 
 ![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/blob/d1a5a2bc3788795cbdcf54e753a25202ae3591f0/Misc/Inception/Images/Picture4.png)
 
-# Flag
+## Flag
 CCTF{Y0u_f03nd_M9}
