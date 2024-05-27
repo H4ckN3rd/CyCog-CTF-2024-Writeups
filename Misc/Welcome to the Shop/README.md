@@ -6,6 +6,8 @@ Our return policy allows customers to purchase items with the confidence that th
 
 First download the file and use ``file`` command to determine type of the file.
 
+![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/blob/02b2a8f915d0c823eb31de40e70a750f542ec83f/Misc/Welcome%20to%20the%20Shop/Images/Picture1.png)
+
 Now we can see it is an executable file so now we have to change permissions using ``chmod`` command and simply run it.
 Now it will show something like this :- 
 
