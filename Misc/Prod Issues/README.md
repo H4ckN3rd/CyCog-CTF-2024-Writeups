@@ -27,5 +27,7 @@ Now i will see contents of file “flag.txt”.
 
 The flag seems to be in ROT13. 
 
+![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/assets/126105931/b1e46022-f7c6-471b-8c38-245dc633d19d)
+
 ## Flag
 CCTF{g1t_g0t_Iss3es_ROT13}
