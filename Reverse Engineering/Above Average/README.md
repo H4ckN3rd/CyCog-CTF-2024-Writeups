@@ -16,7 +16,7 @@ In this code we can clearly see decode which can give us the flag is not being c
 
 ![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/blob/0d67dd61d7de831cc336e8d1581061fde05ba375/Reverse%20Engineering/Above%20Average/Images/Picture3.png)
 
-I basically added the function decode() with  the variabe as it was not being called.
+Add the function decode() with  the variabe as it was not being called.
 Now after saving and running it. We get :-
 
 ![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/blob/0d67dd61d7de831cc336e8d1581061fde05ba375/Reverse%20Engineering/Above%20Average/Images/Picture4.png)
