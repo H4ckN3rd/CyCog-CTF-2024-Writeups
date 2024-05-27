@@ -19,6 +19,8 @@ Now we notice a .git folder which means it is a git repository so now we will us
 Now there are three different versions. 
 We can shift version using ``git checkout`` command.
 
+![image](https://github.com/joykhaneja/CyCog-CTF-2024-Writeups/assets/126105931/abd842d3-db99-4b02-bdb0-2cc0b294d7ff)
+
 Now after shifting to another version i can see all the changes done in this version.
 
 Now i will see contents of file “flag.txt”.
